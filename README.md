@@ -17,5 +17,9 @@ Para carregar as imagens de uma forma mais limpa e facíl, utilizei o package gi
      src="https://user-images.githubusercontent.com/83305912/192593651-bc7479af-cf91-438f-95db-75ffde0179aa.jpg" />
   </div>
 
+# Curso 
+Canal: Renato Mota
+Link do curso: https://youtube.com/playlist?list=PLHAtJbrQ17AWaIWRiBl75ON3XEznUfX-a
+
 # OBS.
 Este APP ainda está em desenvolvimento, ainda não está completo.
