@@ -18,7 +18,9 @@ Para carregar as imagens de uma forma mais limpa e facíl, utilizei o package gi
   </div>
 
 # Curso 
+
 Canal: Renato Mota
+
 Link do curso: https://youtube.com/playlist?list=PLHAtJbrQ17AWaIWRiBl75ON3XEznUfX-a
 
 # OBS.
