@@ -31,19 +31,10 @@ class HomePage extends StatelessWidget {
             ),
           ),
         ),
-        actions: <Widget>[
-          IconButton(
-            icon: const Icon(
-              Icons.brightness_4_outlined,
-              color: Colors.black,
-            ),
-            onPressed: () {},
-          )
-        ],
       ),
       body: Column(
         children: [
-          SearchPokemonWidget(),
+          //SearchPokemonWidget(),
           Expanded(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16),
