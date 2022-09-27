@@ -6,7 +6,7 @@ Para os componentes, na home eu usei o GridView.builder e para imprimir os dados
 
 Para carregar as imagens de uma forma mais limpa e facíl, utilizei o package gif_view, que possibilita usar CircularProgressIndicator enquanto a imagem não carregou.
 
-## Getting Started
+## Imagens do APP
 
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="Paquy-Vscode" height="500" width="250" 
